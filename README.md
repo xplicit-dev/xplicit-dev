@@ -2,22 +2,22 @@
 I'm ANAS PK, and you've landed on the GitHub home of xplicit-dev. As a PHP enthusiast, I'm on a mission to write code that speaks volumes—explicitly, of course!
 
 ### 🚀 About Me:
-💻 PHP Developer by heart
-🌐 Fluent in PHP, but not afraid to dabble in the basics of Python, JavaScript, Go, and Rust
+- 💻 PHP Developer by heart
+- 🌐 Fluent in PHP, but not afraid to dabble in the basics of Python, JavaScript, Go, and Rust
 
 ### 🛠️ Tech Toolbox:
-PHP 🐘
-Python 🐍
-JavaScript 🌐
-Go 🚀
-Rust 🦀
+- PHP 🐘
+- Python 🐍
+- JavaScript 🌐
+- Go 🚀
+- Rust 🦀
 
 ### 💡 Why "xplicit-dev"?
 Because I believe in the power of clear, explicit code. No room for ambiguity—just straightforward solutions.
 
-🌍 Connect with Me:
-🐦 X.com : @Xplicit__KiD
-🌐 Website: 
+- 🌍 Connect with Me:
+- 🐦 X.com : @Xplicit__KiD
+- 🌐 Website: 
 
 📚 Current Interests:
 Exploring PHP frameworks
